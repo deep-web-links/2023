@@ -22,6 +22,7 @@
 | MoneYUU | [moneyuu7hga6jpcfbamefsjwkv3bez3b3hkczpfzjb5zneunpqdh2uyd.onion](http://moneyuu7hga6jpcfbamefsjwkv3bez3b3hkczpfzjb5zneunpqdh2uyd.onion) |
 | Paypal World | [payplb3mm5bdkns6v7xou7xeefcl5bqedofcpnd462rw4gm4xbbwfpad.onion](http://payplb3mm5bdkns6v7xou7xeefcl5bqedofcpnd462rw4gm4xbbwfpad.onion) |
 | Hackerpass | [hackeoyrzjy3ob4cdr2q56bgp7cpatruphcxvgbfsiw6zeqcc36e4ryd.onion](http://hackeoyrzjy3ob4cdr2q56bgp7cpatruphcxvgbfsiw6zeqcc36e4ryd.onion) |
+| NVIDIA Parts market | [nvidialkagnt37uon4hnwkz7xruhlpipeaz6j6zlugqf4mlpdfp6hgqd.onion](http://nvidialkagnt37uon4hnwkz7xruhlpipeaz6j6zlugqf4mlpdfp6hgqd.onion) |
 | WeedX | [weeeedxejprore6lprzg5xwgkujwi27yk6vdj2qtizxoxm7dqe52vaid.onion](http://weeeedxejprore6lprzg5xwgkujwi27yk6vdj2qtizxoxm7dqe52vaid.onion) |
 
 
