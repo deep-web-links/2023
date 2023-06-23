@@ -16,11 +16,15 @@
 
 | Site | URL in TOR (OnionV3 Link) |
 | --- | --- |
+| Horizon CARDS | [cards7ndxk4fuctkgwmeq46gx6bhzt57sg4l2nbwa2p3vjnvq4trhkad.onion](http://cards7ndxk4fuctkgwmeq46gx6bhzt57sg4l2nbwa2p3vjnvq4trhkad.onion) |
 | Chemi5 | [chemi5wtn2hs27wlwgaosi663wswrutofqzhvrjb2ogtxpb42gezebqd.onion](http://chemi5wtn2hs27wlwgaosi663wswrutofqzhvrjb2ogtxpb42gezebqd.onion) |
 | GiftTo(r) | [giftto33ep564ztvpc6652xt4vkupphghcvtxqwpxi6gq5k2fmjd4zid.onion](http://giftto33ep564ztvpc6652xt4vkupphghcvtxqwpxi6gq5k2fmjd4zid.onion) |
 | Apple World | [applbwku7dfadkfkumiojsbxekuiafpr44idl7bxb2xll6neykvx35id.onion](http://applbwku7dfadkfkumiojsbxekuiafpr44idl7bxb2xll6neykvx35id.onion) |
 | MoneYUU | [moneyuu7hga6jpcfbamefsjwkv3bez3b3hkczpfzjb5zneunpqdh2uyd.onion](http://moneyuu7hga6jpcfbamefsjwkv3bez3b3hkczpfzjb5zneunpqdh2uyd.onion) |
 | Paypal World | [payplb3mm5bdkns6v7xou7xeefcl5bqedofcpnd462rw4gm4xbbwfpad.onion](http://payplb3mm5bdkns6v7xou7xeefcl5bqedofcpnd462rw4gm4xbbwfpad.onion) |
+| Kingz Service | [kingz3mfshjqfij3pkjq2fkknjqb6dhdvctmfc6bnstla7ms6vjyjgid.onion](http://kingz3mfshjqfij3pkjq2fkknjqb6dhdvctmfc6bnstla7ms6vjyjgid.onion) |
+| E M P I R E | [empirebhczt2s4yprurhtqvkvnt6rvxqlaxfyniqec643vird7gi7cid.onion](http://empirebhczt2s4yprurhtqvkvnt6rvxqlaxfyniqec643vird7gi7cid.onion) |
+| Account Store | [accountmwyiilytqztx6s45k5a6ud57x3gzmtumljheym5lqwelapaid.onion](http://accountmwyiilytqztx6s45k5a6ud57x3gzmtumljheym5lqwelapaid.onion) |
 | Hackerpass | [hackeoyrzjy3ob4cdr2q56bgp7cpatruphcxvgbfsiw6zeqcc36e4ryd.onion](http://hackeoyrzjy3ob4cdr2q56bgp7cpatruphcxvgbfsiw6zeqcc36e4ryd.onion) |
 | NVIDIA Parts market | [nvidialkagnt37uon4hnwkz7xruhlpipeaz6j6zlugqf4mlpdfp6hgqd.onion](http://nvidialkagnt37uon4hnwkz7xruhlpipeaz6j6zlugqf4mlpdfp6hgqd.onion) |
 | WeedX | [weeeedxejprore6lprzg5xwgkujwi27yk6vdj2qtizxoxm7dqe52vaid.onion](http://weeeedxejprore6lprzg5xwgkujwi27yk6vdj2qtizxoxm7dqe52vaid.onion) |
